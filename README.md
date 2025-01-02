@@ -4,9 +4,9 @@
 
 É muito bom tê-lo(a) aqui. Tenho certeza que você vai adorar este curso. ❤️
 
-## O que você vai aprender
+## O que eu aprendi com esse curso
 
-Durante o curso de testes _end-to-end_ (e2e) com Cypress, você vai aprender:
+Durante o curso de testes _end-to-end_ (e2e) com Cypress, eu aprendi:
 
 - Como fazer o _setup_ de um projeto Cypress
 - Como analisar estaticamente o código de teste para garantir o uso de convenções definidas pela comunidade
@@ -24,10 +24,4 @@ Durante o curso de testes _end-to-end_ (e2e) com Cypress, você vai aprender:
 - Como categorizar os testes e executá-los por suas _tags_
 - Como documentar um projeto de testes e2e
 
-## Vamos começar?
-
-Vá para a seção [estrutura do curso](./lessons/_course-structure_.md).
-
-___
-
-Um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr).
+Um curso da [**Escola Talking About Testing**](https://udemy.com/user/walmyr), com exercícios resolvidos por Sany Garcia.
