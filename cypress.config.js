@@ -9,8 +9,6 @@ module.exports = defineConfig({
       },
       defaultCommandTimeout: 15000,
       responseTimeout: 70000,
-      setupNodeEvents(on, config) {
-      // implement node event listeners here
-      },
    },
+   projectId: 'jcfrwp',
 })
