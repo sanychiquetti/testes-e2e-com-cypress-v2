@@ -9,6 +9,10 @@ module.exports = defineConfig({
       },
       defaultCommandTimeout: 15000,
       responseTimeout: 70000,
+      setupNodeEvents(on, config){
+         require('@cypress/grep/src/plugin')(config)
+         return config
+      }
    },
    projectId: 'jcfrwp',
 })
